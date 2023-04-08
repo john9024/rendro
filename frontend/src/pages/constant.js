@@ -1,0 +1,1 @@
+export const imggenkey = {roomkind:"", roomtype:"", color1:"", color2:"", color3:""};
